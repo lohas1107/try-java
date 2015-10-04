@@ -1,8 +1,8 @@
 
 public class Receipt {
 
-	@Override
-	public String toString(){
-		return "發票";
-	}
+    @Override
+    public String toString() {
+        return "發票";
+    }
 }
